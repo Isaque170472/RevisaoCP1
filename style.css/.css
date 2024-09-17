@@ -1,0 +1,43 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    ｝
+    body {
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    #header{
+    padding: 12px 0;
+    text-align: center;
+    background-color: darkred;
+    color: white;
+    ｝
+    #nav {
+    padding: 12px 0;
+    border-bottom: 1px solid darkgray;
+    background-color: white;
+    color: darkgray;
+    }
+    • container {
+    margin: 0 auto;
+    width: 86%;
+    ｝
+    • menu-item {
+    display: inline-block;
+    margin: 0 12px;
+    }
+    -menu-link {
+    color: darkred;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 12px;
+    }
+    /* pseudo-classes /
+    •menu-link:hover { /A ação de passar o mouse por cima do eLemento/ / text-decoration: underLine; */ background-color: lightgray;
+    border-bottom: 1px solid darkred;
+    ｝
+    •main-image 1
+    width: 400px;
+    float: right;
+    } 
